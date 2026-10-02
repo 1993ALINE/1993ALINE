@@ -20,6 +20,7 @@ I have experience building and maintaining web applications, APIs, database-driv
 
 * JavaScript
 * React.js
+* Next.js
 * HTML
 * CSS
 
@@ -38,19 +39,19 @@ I have experience building and maintaining web applications, APIs, database-driv
 
 ## 🚀 Featured Projects
 
-DocVA
+### DocVA
 
 Full-stack clinical documentation platform built with React, Vite, Node.js, Express, PostgreSQL, Deepgram, Anthropic Claude, AWS, and Redis.
 
-Amptek
+### Amptek
 
 Full-stack corporate and e-commerce web application built with Next.js, React, TypeScript, Tailwind CSS, and Supabase, featuring product management, administrative workflows, checkout, and order tracking.
 
-Anot Platform
+### Anot Platform
 
 Full-stack web application built with React, Node.js, Express, and PostgreSQL, featuring REST APIs, JWT authentication, request validation, and file upload functionality.
 
-Spring Boot Projects
+### Spring Boot Projects
 
 Java and Spring Boot projects demonstrating backend application development, authentication, database integration, and web application functionality.
 
