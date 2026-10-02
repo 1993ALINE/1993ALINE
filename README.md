@@ -2,9 +2,9 @@
 
 ### Java Developer | Spring Boot | REST APIs | Full-Stack Web Development
 
-I'm a software developer with a background in **Java, Spring Boot, REST APIs, backend development, databases, and full-stack web applications**.
+I'm a software developer focused on Java, Spring Boot, REST APIs, backend development, databases, and full-stack web applications.
 
-I have experience building and maintaining web applications, APIs, database-driven systems, and SaaS platforms.
+I build and maintain API-driven, database-backed applications, with experience across backend services, frontend applications, authentication, integrations, cloud services, and existing codebase maintenance.
 
 ## 🛠️ Technologies
 
