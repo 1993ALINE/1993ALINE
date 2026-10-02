@@ -38,21 +38,21 @@ I have experience building and maintaining web applications, APIs, database-driv
 
 ## 🚀 Featured Projects
 
-### Anot Health
+DocVA
 
-Full-stack healthcare SaaS platform with role-based portals, REST APIs, authentication, database-driven workflows, and cloud infrastructure.
+Full-stack clinical documentation platform built with React, Vite, Node.js, Express, PostgreSQL, Deepgram, Anthropic Claude, AWS, and Redis.
 
-### Notenra
+Amptek
 
-Healthcare technology platform currently under development.
+Full-stack corporate and e-commerce web application built with Next.js, React, TypeScript, Tailwind CSS, and Supabase, featuring product management, administrative workflows, checkout, and order tracking.
 
-### Amptek
+Anot Platform
 
-Business website developed using Node.js and TypeScript.
+Full-stack web application built with React, Node.js, Express, and PostgreSQL, featuring REST APIs, JWT authentication, request validation, and file upload functionality.
 
-### Spring Boot Projects
+Spring Boot Projects
 
-Java and Spring Boot projects demonstrating backend development and application development experience.
+Java and Spring Boot projects demonstrating backend application development, authentication, database integration, and web application functionality.
 
 ## 💻 What I Work On
 
